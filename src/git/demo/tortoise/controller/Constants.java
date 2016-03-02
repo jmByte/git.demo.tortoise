@@ -8,5 +8,11 @@ package git.demo.tortoise.controller;
  *
  */
 final class Constants {
-
+	
+	/*
+	 * Constant value that does not change, ever.
+	 */
+	final int constant_number = 1000;
+	
+	
 }
